@@ -58,10 +58,7 @@ In the midterm project, players earn points by correctly matching objects. Incor
 🌟 **Playable Link:**  
 [Play the Game](https://play.unity.com/en/games/c9a9743a-d6ab-40f5-9a0c-596c73025d98/match-madness)  
 
----
 
-### Final Gameplay Video  
-🎥 Final proje videosunu GitHub’a yüklemek için yukarıdaki adımları takip edebilirsiniz.
 ## Oyun Videosu  
 🎥 [Oynanış Videosunu İzle](https://drive.google.com/file/d/1BRpSx44Q8M2YPPmI7vi-eAihVPVRYcvy/view?usp=sharing)
 
